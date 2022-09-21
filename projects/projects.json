@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Scoopso",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "scoopso.com",
+    "category": "mean",
+    "links": {
+      "view": "https://scoopso.com/"
+    }
+  },
+  {
+    "name": "Main Portfolio",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "main portfolio",
+    "category": "mean",
+    "links": {
+      "view": "https://sanin.ml/"
+    }
+  },
+  {
+    "name": "Clinic Website",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "clinic website",
+    "category": "mean",
+    "links": {
+      "view": "https://sanincp.github.io/clinic-demo-2/"
+    }
+  },
+  {
+    "name": "Architecture Studio ",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "civil website",
+    "category": "mean",
+    "links": {
+      "view": "https://sanincp.github.io/civil-demo-1/"
+    }
+  },
+  {
+    "name": "widfind",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "widfind",
+    "category": "mean",
+    "links": {
+      "view": "https://widfind.ml/"
+    }
+  },
+  {
+    "name": "Kerala",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "kerala com",
+    "category": "mean",
+    "links": {
+      "view": "https://sanincp.github.io/kerala/"
+    }
+  },
+  {
+    "name": "Clinic page",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "clinic page 2",
+    "category": "mean",
+    "links": {
+      "view": "http://www.widfinder.ml/"
+    }
+  },
+  {
+    "name": "Personal website",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "personal website",
+    "category": "mean",
+    "links": {
+      "view": "http://www.widfinder.ml/"
+    }
+  },
+  {
+    "name": "Portfolio",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "portfolio 3",
+    "category": "mean",
+    "links": {
+      "view": "http://www.widfinder.ml/"
+    }
+  },
+  {
+    "name": "One Page",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "simple web",
+    "category": "android",
+    "links": {
+      "view": "#"
+    }
+  },
+  {
+    "name": "Widfind 2",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "widfind 2",
+    "category": "android",
+    "links": {
+      "view": "http://www.widfinder.ml/"
+    }
+  },
+  {
+    "name": "jQuery calculator",
+    "desc": "Fully fledged website based on different design patterns. Built using HTML, CSS, JavaScript, Bootstrap, jQuery",
+    "image": "jQuery",
+    "category": "android",
+    "links": {
+      "view": "https://sanincp.github.io/jQuery-calculater-project/"
+    }
+  }
+
+]
